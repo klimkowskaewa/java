@@ -1,7 +1,3 @@
-//Napisz program Calculator.java, zawierający metody do sumowania, odejmowania i mnożenia dwóch
-// liczb całkowitych. Zaprezentuj działanie każdej z metod.
-
-
 import java.util.Scanner;
 
 public class Calculator {
@@ -11,7 +7,7 @@ public class Calculator {
         double y = scanner.nextDouble();
 
         showAddition(x,y);
-        showSubstraction(x,y);
+        showSubtraction(x,y);
         showDivision(x,y);
         showMultiplication(x,y);
     }
@@ -20,8 +16,8 @@ public class Calculator {
         System.out.println("Addition " + (x + y) );
     }
 
-    public static void showSubstraction(double x, double y) {
-        System.out.println("Substraction " + (x - y) );
+    public static void showSubtraction(double x, double y) {
+        System.out.println("Subtraction " + (x - y) );
     }
 
     public static void showMultiplication(double x, double y) {
