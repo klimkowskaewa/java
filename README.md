@@ -13,3 +13,4 @@ These files are divided into category:
 - [Interfaces](https://github.com/klimkowskaewa/java/tree/master/src/interfaces)
 - [Exceptions](https://github.com/klimkowskaewa/java/tree/master/src/exceptions)
 - [Collections](https://github.com/klimkowskaewa/java/tree/master/src/collections)
+- [Files](https://github.com/klimkowskaewa/java/tree/master/src/files)
