@@ -14,3 +14,4 @@ These files are divided into category:
 - [Exceptions](https://github.com/klimkowskaewa/java/tree/master/src/exceptions)
 - [Collections](https://github.com/klimkowskaewa/java/tree/master/src/collections)
 - [Files](https://github.com/klimkowskaewa/java/tree/master/src/files)
+- [Math](https://github.com/klimkowskaewa/java/tree/master/src/math)
