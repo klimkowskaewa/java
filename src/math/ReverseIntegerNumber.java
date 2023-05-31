@@ -22,6 +22,5 @@ public class ReverseIntegerNumber {
         }
 
         System.out.println(positive * sum);
-
     }
 }
