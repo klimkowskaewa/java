@@ -16,7 +16,6 @@ public class ReverseIntegerNumber {
             int maxDiff = Integer.MAX_VALUE - sum * 10;
             if (sum > Integer.MAX_VALUE / 10 || x > maxDiff)
                 System.out.println("Wrong number!");
-
             sum = sum * 10 + x;
             number /= 10;
         }
