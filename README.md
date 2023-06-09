@@ -15,3 +15,4 @@ These files are divided into category:
 - [Collections](https://github.com/klimkowskaewa/java/tree/master/src/collections)
 - [Files](https://github.com/klimkowskaewa/java/tree/master/src/files)
 - [Math](https://github.com/klimkowskaewa/java/tree/master/src/math)
+- [Lambda](https://github.com/klimkowskaewa/java/tree/master/src/lambda)
