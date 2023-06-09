@@ -1,7 +1,5 @@
 package collections;
 
-import java.util.Objects;
-
 public class Furniture {
     public static void main(String[] args) {
         Chair chair1 = new Chair("Adde", "IKEA", 2016);
