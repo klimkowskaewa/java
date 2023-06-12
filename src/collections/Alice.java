@@ -26,7 +26,6 @@ public class Alice {
         }
         return null;
     }
-
     public static void showAllLines(List<String> allLines) {
         for (String line : allLines) {
             System.out.println(line);
