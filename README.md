@@ -17,3 +17,4 @@ These files are divided into category:
 - [Math](https://github.com/klimkowskaewa/java/tree/master/src/math)
 - [Lambda](https://github.com/klimkowskaewa/java/tree/master/src/lambda)
 - [Inner](https://github.com/klimkowskaewa/java/tree/master/src/inner)
+
