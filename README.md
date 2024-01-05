@@ -2,7 +2,6 @@
 
 Java repository contains a list of programming projects created during my learning.  
 These files are divided into category:
-
 - [Data types](https://github.com/klimkowskaewa/java/tree/master/src/datatypes)
 - [Objects](https://github.com/klimkowskaewa/java/tree/master/src/objects)
 - [Loops](https://github.com/klimkowskaewa/java/tree/master/src/loops)
